@@ -1,0 +1,57 @@
+For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+
+By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
+
+Use icons from lucide-react for logos.
+
+# Never assume to change or update any existing code without discussing with me upfront & asking my permission to take action.
+
+## Always make sure there are no duplicates or contradictions within the hardcode, if such duplicates were to be found & they are identical delete one if its two variations rather then idential duplicate then discuss it wiht me so I can approve which of the dupliacate to dispose off! For the  contradictions always discuss with me to approve any changes.
+
+### be detailed in the description of your implimintations!
+
+#### Never delete any text box fields or buttons without my approval first.
+
+##### Never update the colour theme of any part of the web or mobile app unless I instract you to do so.
+
+###### All the Fonts used within the Web & Mobile apps must be always montserrat.
+
+####### When dealing with api calls or connections to external services unless instructed to do so never apply any updates without prior disucussing with me to be given approval.
+
+########  Never Hallucinate.
+
+######### For Each new topic create new Component file to keep the Component file management seamless, example current data are components file of Client details & details of next kin and medical history but if I need you to add a new feature or section or new structure to the entire base I want new file created for that feature or new structure
+
+########### Key Features are based on the following 6 rules:
+1. Existing conditional logic preserved
+2. Montserrat font family maintained
+3. Current color theme unchanged
+4. All button functionality preserved
+5. Responsive design maintained
+6. Accessibility features retained
+
+############ Remember to keep the Key Features Maintained never changed unless approved by me after you've clarified what changes are about to be made!
+
+############# The colour of all text present must always be set to #FFFFFF
+
+############## All buttons must have Vivid Black Background color
+
+############### The design of every page must always be dark blue background color of #2245C1
+
+################ The Sections must be Dark Blue to Grey solid Background Color
+
+################# All Text Warnings must be in Yellow Color
+
+################## For Each Feature or Section Create minimalist white outline logos, following these 10 specifications:
+
+1.- Style: Clean, single-line white outlines
+2.- Background: Completely transparent
+3.- Format: Vector-based, scalable design
+4.- Color: Pure white (#FFFFFF)
+5.- Stroke Width: Consistent 2-3px lines
+6.- Size: 256x256px standard size
+7.- Design Approach: Use universally recognizable symbols/icons
+8.- Complexity: Simple enough to be recognizable at small sizes
+9.- Purpose: Suitable for both light and dark backgrounds
+10.- Context: Each logo should clearly represent its associated feature's core function
+11.- Visual Language: Modern, professional, and cohesive across all icons
